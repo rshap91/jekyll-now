@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Born in NYC, looking to make it big as a Data Scientist. I'll like you if you are weird and quirky. Probability that I like you if your not weird and quriky may vary.
+
+<code> P(Weird|:thumbsup:) = P(Weird)P(:thumbsup:|Weird) / P(:thumbsup:) </code>
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+*Two Truths and a Lie*
+
+  - (True and (True and not (False or True))) or not (True and (False or False and True))
+  - (False and (False or True) or True and False or not False)
+  - I'm 40% Titanium
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rick.shapirony@gmail.com](mailto:rick.shapirony@gmail.com)
