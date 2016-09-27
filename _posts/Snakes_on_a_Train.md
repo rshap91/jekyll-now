@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
+
 ### My First Post
 Into week 2 of Metis Data Science Bootcamp... and the water keeps rising. I am reminded very much of a song I used to listen to when I was a child which was a Shel Silverstein poem set to music.
 
