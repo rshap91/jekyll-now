@@ -6,7 +6,7 @@ permalink: /about/
 
 Born in NYC, looking to make it big as a Data Scientist. I'll like you if you are weird and quirky. Probability that I like you if your not weird and quriky may vary.
 
-P(Weird\|:thumbsup:) = P(Weird)P(:thumbsup:\|Weird) / P(:thumbsup:)
+P(Weird \| :thumbsup:) = P(Weird)P(:thumbsup: \| Weird) / P(:thumbsup:)
 
 ### More Information
 
