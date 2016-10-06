@@ -1,12 +1,7 @@
-
-
-
-
-
-
+---
 layout: post
-title: Snakes On A Train
-
+title: You're up and running!
+---
 
 
 ### My First Post
