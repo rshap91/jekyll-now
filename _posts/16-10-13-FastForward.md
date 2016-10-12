@@ -8,7 +8,7 @@ As if movie prices in the city aren't enough from dettering me from going to the
 
 When you go to a website it's usually no big deal to just look at the page with your human eyes, click on links with your human hand, and interpret basic information on the webpage using your human brain. Computers, however, don't have hands, eyes, or brains and when you want them to go to a bunch of websites (say movie pages on boxofficemojo.com) and collect a bunch of information for you (say the Total Gross for each movie), it's REAAALLLY  arduous to tell them exactly what you want (and believe me, they need to know EXACTLY). For starters, you have to talk to them in the language of html (the language used to build websites). Here's a snippet of some html from www.imdb.com. I'd post the whole thing... except the html used to create just the imdb homepage is 60 pages long!
 
-![imdbHTML] ({{rshap91.github.io}}/assets/imdbHTML.png)
+![imdbHTML] ({{ rshap91.github.io }}/assets/imdbHTML.png)
 
 
 On top of that, not all the pages are layed out the same and the computer is horrible at generalizing. Searching for 
