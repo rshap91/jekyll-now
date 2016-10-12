@@ -16,4 +16,4 @@ On top of that, not all the pages are layed out the same and the computer is hor
 
 After all was said and done, I had created a model that was, not surprisingly, not that great at predicting how much movies would make. If it was, I'd be writing this post from the lounge pool in my new 100 ft yacht which I would have bought with all the money I made revolutionizing the movie industry... alas.
 
-The code and powerpoint for the project is available [here](https://github.com/rshap91/Movie_Gross).
+The code and powerpoint for the project are available [here](https://github.com/rshap91/Movie_Gross).
