@@ -8,7 +8,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
 
-<div id ="smile" width="1000px" height="1200px">closer!</div>
+<div id ="smile" width="1000px" height="1200px">hmmm!</div>
 
 
 <script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js'> </script> 
@@ -56,7 +56,7 @@ var container = d3.select('#smile').append('svg')
 	.attr('width', width)
 	.attr('height', height)
 	.style('border', '1px dashed black')
-	.style('position', 'fixed')
+	//.style('position', 'fixed')
 // MAKE THE FACE
 var head = container.append('circle')
 	.data(loc)
