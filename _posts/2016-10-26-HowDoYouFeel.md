@@ -23,6 +23,10 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 	}
 </style>
 
+
+<iframe src = "Smiley.html" width = "800px" height = "500px"> </iframe>
+
+
 <div id = 'smile'> </div>
 
 <script>
@@ -166,4 +170,4 @@ var slider = d3.select('div').call(d3.slider().orientation('vertical').min(0).ma
 </script>
 
 
-[http://bl.ocks.org/rshap91](http://bl.ocks.org/rshap91)
+[http://bl.ocks.org/rshap91] (http://bl.ocks.org/rshap91)
