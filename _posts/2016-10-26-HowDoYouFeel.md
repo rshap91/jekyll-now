@@ -11,9 +11,9 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 <div id ="smile">damn!</div>
 
 
-<script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.8/d3.min.js'> </script> 
-<script src = 'rshap91.github.io/assets/d3.slider.js'></script>
-<link rel="stylesheet" href="rshap91.github.io/assets/d3.slider.css" />  
+<script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js'> </script> 
+<script src = 'https://rshap91.github.io/assets/d3.slider.js'></script>
+<link rel="stylesheet" href="https://rshap91.github.io/assets/d3.slider.css" />  
 <style>
 	.d3-slider-vertical {
 		border: 4px solid #582A17;
