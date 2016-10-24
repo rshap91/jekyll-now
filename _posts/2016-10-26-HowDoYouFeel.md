@@ -23,6 +23,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 	}
 </style>
 
+<div id = 'smile'> </div>
 
 <script>
 var loc = [{'x': 350, 'y': 250}]
@@ -163,7 +164,7 @@ var slider = d3.select('div').call(d3.slider().orientation('vertical').min(0).ma
 })
 	)
 </script>
-<div id = 'smile'> </div>
+
 
 
 http://bl.ocks.org/rshap91
