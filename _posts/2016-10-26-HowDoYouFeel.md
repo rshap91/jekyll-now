@@ -8,7 +8,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
 
-<div id ="smile" width="1000px" height="1200px">slide!</div>
+<div id ="smile" width="1000px" height="1200px">where!</div>
 
 
 <script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js'> </script> 
@@ -150,7 +150,7 @@ var sliderDiv = d3.select('#smile').append('div')
 	.style('display', 'inline-block')
 	.style('left', '650px')
 	.style('top', '110px')
-	//.style('position', 'fixed')
+	.style('position', 'absolute')
 	
 var slider = d3.select('div').call(d3.slider().orientation('vertical').min(0).max(100).value(50)
 	.on('slide', function(evt, sVal){
