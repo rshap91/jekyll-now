@@ -7,11 +7,8 @@ title: How Do You Feel?
 How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
-<iframe src = "rshap91.github.io/assets/d3Smiley.html" width = "800px" height = "500px"> </iframe>
 
-
-
-<div id ="smile"> </div>
+<div id ="smile">SMILE!</div>
 
 
 <script type= 'text/javascript' src = 'http://d3js.org/d3.v3.min.js'> </script> 
