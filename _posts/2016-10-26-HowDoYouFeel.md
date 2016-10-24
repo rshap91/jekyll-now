@@ -9,9 +9,14 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 <iframe src = "rshap91.github.io/assets/d3Smiley.html" width = "800px" height = "500px"> </iframe>
 
+
+
+<div id ="smile"> </div>
+
+
 <script type= 'text/javascript' src = 'http://d3js.org/d3.v3.min.js'> </script> 
-<script src = 'd3.slider.js'></script>
-<link rel="stylesheet" href="d3.slider.css" />  
+<script src = 'rshap91.github.io/assets/d3.slider.js'></script>
+<link rel="stylesheet" href="rshap91.github.io/assets/d3.slider.css" />  
 <style>
 	.d3-slider-vertical {
 		border: 4px solid #582A17;
@@ -27,8 +32,6 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
 
-
-<div id = 'smile'> </div>
 
 <script>
 var loc = [{'x': 350, 'y': 250}]
