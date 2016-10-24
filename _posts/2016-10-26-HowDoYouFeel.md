@@ -163,9 +163,7 @@ var slider = d3.select('div').call(d3.slider().orientation('vertical').min(0).ma
 })
 	)
 </script>
+<div id = 'smile'> </div>
 
-
-</body>
-</html>
 
 http://bl.ocks.org/rshap91
