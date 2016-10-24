@@ -6,13 +6,11 @@ title: How Do You Feel?
 
 How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
-<html>
-<head>
-	<title>d3 Smiley</title>
-	<script type= 'text/javascript' src = 'http://d3js.org/d3.v3.min.js'> </script> 
-	<script src = '/Smiley/d3.slider.js'></script>
-	<link rel="stylesheet" href="/Smiley/d3.slider.css" />  
-	<style>
+
+<script type= 'text/javascript' src = 'http://d3js.org/d3.v3.min.js'> </script> 
+<script src = 'd3.slider.js'></script>
+<link rel="stylesheet" href="d3.slider.css" />  
+<style>
 	.d3-slider-vertical {
 		border: 4px solid #582A17;
 		background: #444444;
@@ -23,9 +21,9 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 		height: 40px;
 		transform: translate(-2.5px,0)
 	}
-	</style>
-</head>
-<body>
+</style>
+
+
 <script>
 var loc = [{'x': 350, 'y': 250}]
 // as happiness goes up (--> smile) 
@@ -48,7 +46,7 @@ var centerScale = d3.scale.linear()
 var width = 800
 var height = 600
 // CREATE SVG CONTAINER
-var container = d3.select('body').append('svg')
+var container = d3.select('#smile').append('svg')
 	.attr('width', width)
 	.attr('height', height)
 	.style('border', '1px dashed black')
@@ -137,7 +135,7 @@ var sad = container.append('text')
 	.attr('fill', 'Red')
 	.text('Sad')
 // MAKE SLIDER USING D3.SLIDER 
-var sliderDiv = d3.select('body').append('div')
+var sliderDiv = d3.select('#smile').append('div')
 	.attr('class', 'slider container')
 	.style('height', '400px')
 	.style('margin', '30px')
