@@ -8,7 +8,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
 
-<div id ="smile">damn!</div>
+<div id ="smile">plz!</div>
 
 
 <script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js'> </script> 
