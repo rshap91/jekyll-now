@@ -6,6 +6,10 @@ title: How Do You Feel?
 
 How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
-<iframe src="http://bl.ocks.org/rshap91/raw/cb30cb78ad77cf1dc59ca1610eda9401/" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
+<div id="example"></div>
+
+
 
 http://bl.ocks.org/rshap91
