@@ -5,7 +5,7 @@
 <head>
 	<title>d3 Smiley</title>
 	<script type= 'text/javascript' src = 'http://d3js.org/d3.v3.min.js'> </script> 
-	<script src = 'd3.slider.js'></script>
+	<script src = '/Smiley/d3.slider.js'></script>
 	<link rel="stylesheet" href="d3.slider.css" />  
 	<style>
 	.d3-slider-vertical {
@@ -61,7 +61,7 @@ var height = 600
 
 
 // CREATE SVG CONTAINER
-var container = d3.select('#smile').select('body').append('svg')
+var container = d3.select('body').append('svg')
 	.attr('width', width)
 	.attr('height', height)
 	.style('border', '1px dashed black')
