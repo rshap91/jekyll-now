@@ -7,6 +7,8 @@ title: How Do You Feel?
 How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
+<iframe src = "d3Smiley.html" width = "800px" height = "500px"> </iframe>
+
 <script type= 'text/javascript' src = 'http://d3js.org/d3.v3.min.js'> </script> 
 <script src = 'd3.slider.js'></script>
 <link rel="stylesheet" href="d3.slider.css" />  
@@ -24,7 +26,6 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 </style>
 
 
-<iframe src = "Smiley.html" width = "800px" height = "500px"> </iframe>
 
 
 <div id = 'smile'> </div>
