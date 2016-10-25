@@ -23,7 +23,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 	.d3-slider-handle {
 		width: 25px;
 		height: 40px;
-		transform: translate(-2.5px,0)
+		/*transform: translate(-2.5px,0)*/
 	}
 </style>
 
@@ -127,7 +127,7 @@ var header = container.append('text')
 	.style('font-weight', 'bold')
 	.text('Happiness Meter')
 var happy = container.append('text')
-	.attr('x', width-200)
+	.attr('x', width-350)
 	.attr('y', 125)
 	.style('font-style', 'italic')
 	.style('font-size', '24px')
