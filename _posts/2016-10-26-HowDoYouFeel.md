@@ -148,7 +148,7 @@ var sliderDiv = d3.select('#smile').append('div')
 	.style('margin-bottom', '100px')
 	.style('display', 'inline-block')
 	.style('left', '920px')
-	.style('top', '388px')
+	.style('top', '392px')
 	.style('position', 'absolute')
 	
 var slider = d3.select('.slider').call(d3.slider().orientation('vertical').min(0).max(100).value(50)
