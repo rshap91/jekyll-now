@@ -8,7 +8,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
 
-<div id ="smile" width="1000px" height="1200px">cmon</div>
+<div id ="smile" width="1000px" height="1500px">2</div>
 
 
 <script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js'> </script> 
