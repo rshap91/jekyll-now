@@ -7,7 +7,7 @@ title: How Do You Feel?
 How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
-*Drag the slider bitch*
+*Drag the slider*
 <div id ="smile" width="1000px" height="1500px"></div>
 
 
@@ -148,7 +148,7 @@ var sliderDiv = d3.select('#smile').append('div')
 	.style('margin-bottom', '100px')
 	.style('display', 'inline-block')
 	.style('left', '920px')
-	.style('top', '367px')
+	.style('top', '369px')
 	.style('position', 'absolute')
 	
 var slider = d3.select('.slider').call(d3.slider().orientation('vertical').min(0).max(100).value(50)
