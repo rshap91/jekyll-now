@@ -23,7 +23,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 	.d3-slider-handle {
 		width: 25px;
 		height: 40px;
-		/*transform: translate(-2.5px,0)*/
+		transform: translate(1.5px,0)
 	}
 </style>
 
@@ -121,13 +121,13 @@ var mouth = container.append('path')
 	.style('fill', 'none')
 // make text
 var header = container.append('text')
-	.attr('x', width-270)
+	.attr('x', width-375)
 	.attr('y', 50)
 	.style('font-size', '34px')
 	.style('font-weight', 'bold')
 	.text('Happiness Meter')
 var happy = container.append('text')
-	.attr('x', width-350)
+	.attr('x', width-200)
 	.attr('y', 125)
 	.style('font-style', 'italic')
 	.style('font-size', '24px')
@@ -148,7 +148,7 @@ var sliderDiv = d3.select('#smile').append('div')
 	.style('margin-bottom', '100px')
 	.style('display', 'inline-block')
 	.style('left', '900px')
-	.style('top', '300px')
+	.style('top', '340px')
 	.style('position', 'absolute')
 	
 var slider = d3.select('.slider').call(d3.slider().orientation('vertical').min(0).max(100).value(50)
