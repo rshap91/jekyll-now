@@ -23,7 +23,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 	.d3-slider-handle {
 		width: 25px;
 		height: 40px;
-		transform: translate(1.5px,0)
+		transform: translate(2.5px,0)
 	}
 </style>
 
@@ -147,8 +147,8 @@ var sliderDiv = d3.select('#smile').append('div')
 	.style('margin', '30px')
 	.style('margin-bottom', '100px')
 	.style('display', 'inline-block')
-	.style('left', '900px')
-	.style('top', '340px')
+	.style('left', '935px')
+	.style('top', '420')
 	.style('position', 'absolute')
 	
 var slider = d3.select('.slider').call(d3.slider().orientation('vertical').min(0).max(100).value(50)
