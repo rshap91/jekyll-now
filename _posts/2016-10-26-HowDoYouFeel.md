@@ -7,7 +7,7 @@ title: How Do You Feel?
 How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
-*Drag the slider*
+*Drag the slider bitch*
 <div id ="smile" width="1000px" height="1500px"></div>
 
 
