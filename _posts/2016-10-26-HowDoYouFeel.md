@@ -8,7 +8,7 @@ How do YOU feel today? (No this is not what I'm learning at bootcamp)
 
 
 
-<div id ="smile" width="1000px" height="1500px">1</div>
+<div id ="smile" width="1000px" height="1500px"></div>
 
 
 <script type= 'text/javascript' src = 'https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js'> </script> 
@@ -128,7 +128,7 @@ var header = container.append('text')
 	.text('Happiness Meter')
 var happy = container.append('text')
 	.attr('x', width-200)
-	.attr('y', 125)
+	.attr('y', 110)
 	.style('font-style', 'italic')
 	.style('font-size', '24px')
 	.attr('fill', 'green')
