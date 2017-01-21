@@ -18,9 +18,7 @@ As apposed to basic descriptive analysis, I decdied to build a model that would 
   - Going through over 100 demographic statistics by hand is unweildy even with computer assistance. A Predictive model yields information on which features are most relevant to it's predictions and helps focus attention on the most salient demographics
   - Looking at counties that my model got wrong could be areas worth exploring as possible locations for new Whole Foods Stores
  
-I'll highlight some of my findings below, but the fun part of this is really the visualization I built in d3:
-
-http://bl.ocks.org/rshap91/raw/7d83217a05828988c6f543acfa2f887c/
+I'll highlight some of my findings below, but the fun part of this is really the [visualization I built in d3] (http://bl.ocks.org/rshap91/raw/7d83217a05828988c6f543acfa2f887c/)
 
 You can choose a data point from the drop down menu to color the map according to the values for each county. For example if you choose "Starbucks", the map will change colors so that counties with more Starbucks locations are colored darker red. Hover your mouse over the map to see exactly how many there are in a given county. 
 
