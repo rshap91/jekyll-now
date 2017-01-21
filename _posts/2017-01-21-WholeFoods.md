@@ -14,6 +14,7 @@ Some companies are known to specifcally open locations nearby related buisnesses
 For a time, Long John Silvers strategically opened restaurants right next to McDonalds and marketed itself as a "burger alternative" hoping to appeal McD goers who were tired of the big mac. I wondered if maybe Whole Foods had any such strategy so I also included locations of some related and competing buisnesses in my model. Store locations I used in my model were those for Starbucks, McDonalds, Target, Walmart, and Trader Joes.
 
 As apposed to basic descriptive analysis, I decdied to build a model that would make a prediction on whether or not a county had a Whole Foods based on the demographic data and the locations of related buisnesses. Doing so had a few benefits:
+
   - Going through over 100 demographic statistics by hand is unweildy even with computer assistance. A Predictive model yields information on which features are most relevant to it's predictions and helps focus attention on the most salient demographics
   - Looking at counties that my model got wrong could be areas worth exploring as possible locations for new Whole Foods Stores
  
