@@ -14,7 +14,7 @@ Some companies are known to specifcally open locations nearby related buisnesses
 For a time, Long John Silvers strategically opened restaurants right next to McDonalds and marketed itself as a "burger alternative" hoping to appeal McD goers who were tired of the big mac. I wondered if maybe Whole Foods had any such strategy so I also included locations of some related and competing buisnesses in my model. Store locations I used in my model were those for Starbucks, McDonalds, Target, Walmart, and Trader Joes.
 
  
-I'll highlight some of my findings below, but the fun part of this is really the [visualization I built in d3] (http://bl.ocks.org/rshap91/raw/7d83217a05828988c6f543acfa2f887c/)
+I'll highlight some of my findings below, but the fun part of this is really the [visualization I built in d3](http://bl.ocks.org/rshap91/raw/7d83217a05828988c6f543acfa2f887c/)
 
 You can choose a data point from the drop down menu to color the map according to the values for each county. For example if you choose "Starbucks", the map will change colors so that counties with more Starbucks locations are colored darker red. Hover your mouse over the map to see exactly how many there are in a given county. 
 
@@ -26,5 +26,5 @@ In terms of demographics it was interesting to note that obesity rates were nega
 
 While it's tempting to draw conclusions from that statistic, I must remember that correlation does NOT imply causation. Therefore further analysis is required. 
 
-The full project can be found on my [github] (https://github.com/rshap91/WholeFoods)
+The full project can be found on my [github](https://github.com/rshap91/WholeFoods)
  
